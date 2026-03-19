@@ -6,6 +6,10 @@
 
 基于 Gradio 构建的 **Xiaomi MiMo V2-TTS** 语音合成 Web 界面。提供简洁直观的配置面板，支持多种音色、音频格式以及高级推理参数的实时调节。
 
+## 📸 页面展示
+
+![WebUI Screenshot](1324fa3c-bde9-4694-8587-c4de42477a8d.png)
+
 ---
 
 ## ✨ 功能特点
