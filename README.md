@@ -8,7 +8,7 @@
 
 ## 📸 页面展示
 
-![WebUI Screenshot](1324fa3c-bde9-4694-8587-c4de42477a8d.png)
+![WebUI Screenshot](webui_photo.png)
 
 ---
 
